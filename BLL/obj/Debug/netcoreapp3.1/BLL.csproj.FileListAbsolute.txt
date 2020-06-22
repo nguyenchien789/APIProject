@@ -1,0 +1,12 @@
+D:\Fnews\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\Fnews\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\Fnews\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\Fnews\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\Fnews\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\Fnews\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\Fnews\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\Fnews\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Fnews\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Fnews\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\Fnews\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\Fnews\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

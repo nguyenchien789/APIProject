@@ -1,0 +1,12 @@
+D:\Fnews\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Fnews\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Fnews\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\Fnews\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Fnews\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Fnews\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\Fnews\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\Fnews\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Fnews\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Fnews\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Fnews\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\Fnews\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
